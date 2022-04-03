@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url('./transfonter.org-20220403-092817/Montserrat-Bold.eot'),
+    url('./transfonter.org-20220403-092817/Montserrat-Bold.woff2') format('woff2'),
+    url('./transfonter.org-20220403-092817/Montserrat-Bold.woff') format('woff'),
+    url('./transfonter.org-20220403-092817/Montserrat-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat-Semibold';
+    src: url('./transfonter.org-20220403-092817/Montserrat-SemiBold.eot'),
+    url('./transfonter.org-20220403-092817/Montserrat-SemiBold.woff2') format('woff2'),
+    url('./transfonter.org-20220403-092817/Montserrat-SemiBold.woff') format('woff'),
+    url('./transfonter.org-20220403-092817/Montserrat-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat-Medium';
+    src: url('./transfonter.org-20220403-092817/Montserrat-Medium.eot'),
+    url('./transfonter.org-20220403-092817/Montserrat-Medium.woff2') format('woff2'),
+    url('./transfonter.org-20220403-092817/Montserrat-Medium.woff') format('woff'),
+    url('./transfonter.org-20220403-092817/Montserrat-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
